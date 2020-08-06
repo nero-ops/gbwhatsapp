@@ -17,6 +17,6 @@ height="24">
     </defs>
 
     <!-- Set SVG sprite position and color -->
-    <use xlink:href="#search"           x="0"    y="0" fill="#000" />
+    <use xlink:href="#search"           x="0"    y="0" fill="yellow" />
     
 </svg>
