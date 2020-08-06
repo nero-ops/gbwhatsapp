@@ -1,0 +1,30 @@
+
+<svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="1632"
+height="24">
+
+    <!-- Define SVGs -->
+    <defs>
+    
+        
+
+        <!-- share -->
+        <symbol id="share" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin meet">
+            <path d="M0 0h24v24H0z" fill="none"/>
+            <path d="M17.333,15.622a2.587,2.587,0,0,0-1.742.684L9.253,12.617a2.458,2.458,0,0,0,0-1.244L15.52,7.719a2.661,2.661,0,1,0-.853-1.946,2.872,2.872,0,0,0,.08.622L8.48,10.048a2.667,2.667,0,1,0,0,3.894l6.329,3.689a2.488,2.488,0,0,0-.071.586,2.6,2.6,0,1,0,2.595-2.595Z"/>
+        </symbol>
+
+       
+
+      
+
+         </defs>
+
+
+    <!-- Set SVG sprite position and color -->
+
+    <use xlink:href="#share"            x="192"  y="0" fill="yellow" />
+   
+</svg>
